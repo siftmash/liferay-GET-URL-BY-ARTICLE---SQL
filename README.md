@@ -1,4 +1,4 @@
-# liferay-GET-URL-BY-ARTICLE---SQL
+# liferay GET URL BY TEMPLATE ID
 
 
 

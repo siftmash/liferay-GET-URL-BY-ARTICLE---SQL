@@ -1,0 +1,1 @@
+# liferay-GET-URL-BY-ARTICLE---SQL
